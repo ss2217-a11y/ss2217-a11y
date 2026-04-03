@@ -37,19 +37,6 @@ I'm a B.Tech CSE student at SRMIST (CGPA: 8.7), also pursuing B.Sc. Data Science
 
 <br/>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![Sourish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss2217-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ss2217-a11y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ss2217-a11y&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
 
 ## 🚀 Featured Project:
 
