@@ -12,7 +12,7 @@ I'm a B.Tech CSE student at SRMIST (CGPA: 8.7), also pursuing B.Sc. Data Science
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourishsankar006)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ss2217-ally)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ss2217-a11y)
 
 <br/>
 
@@ -41,11 +41,11 @@ I'm a B.Tech CSE student at SRMIST (CGPA: 8.7), also pursuing B.Sc. Data Science
 
 <div align="center">
 
-![Sourish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss2217-ally&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Sourish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ss2217-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ss2217-ally&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ss2217-a11y&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ss2217-ally&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ss2217-a11y&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,11 +73,3 @@ I'm a B.Tech CSE student at SRMIST (CGPA: 8.7), also pursuing B.Sc. Data Science
 - ⚡ Active participant @ **SRMIST**, **VIT Chennai**, **CSI SRM** hackathons
 - 🎓 Dual-degree: B.Tech CSE (SRMIST) + B.Sc. Data Science (IIT Madras)
 - 🤖 Courses: AI, DBMS, Software Engineering — built & shipped projects end-to-end
-
-<br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ss2217-ally&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
